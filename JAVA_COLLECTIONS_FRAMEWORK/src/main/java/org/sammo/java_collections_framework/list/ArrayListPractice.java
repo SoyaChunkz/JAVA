@@ -120,6 +120,12 @@ public class ArrayListPractice {
 
         list6.addAll(list4);
         list6.addAll(list5);
-        System.out.println(list6);
+//        System.out.println(list6);
+
+        list6.remove(Integer.valueOf(1)); // object removal
+
+        Integer[] array = list6.toArray(new Integer[0]);
+        System.out.println(List.of(array));
+
     }
 }
