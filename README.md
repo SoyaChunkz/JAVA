@@ -1,8 +1,6 @@
 
-# Data Structures and Algorithms (DSA) Repository
-
-## Welcome to my Data Structures and Algorithms (DSA) repository! 
-### This repository contains a collection of solutions and implementations of various JAVA concepts, data structures and algorithms that I have practiced and developed.The repository is organized into multiple sections covering fundamental and advanced topics in DSA.
+# Welcome to my Java repository!
+## This repository contains a collection of Java-based implementations and solutions covering core concepts, data structures, algorithms, and some advanced topics.
 
 
 ## Topics Covered
@@ -15,4 +13,8 @@
 - Recursion & Backtracking
 - Trees
 - Graphs
+- Multithreading
+- Java Collections Framework (JCF)
+
+  
 
