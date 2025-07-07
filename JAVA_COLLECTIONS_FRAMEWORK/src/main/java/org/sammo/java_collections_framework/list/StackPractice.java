@@ -26,6 +26,7 @@ public class StackPractice {
  *
  *
  * */
+        // LL as stack
         LinkedList<Integer> linkedListAsStack = new LinkedList<>();
 
         linkedListAsStack.addLast(1); // push
@@ -41,6 +42,7 @@ public class StackPractice {
  *
  *
  * */
+        // ArrayList as stack
         ArrayList<Integer> arrayListAsStack = new ArrayList<>();
 
         arrayListAsStack.add(1); // push

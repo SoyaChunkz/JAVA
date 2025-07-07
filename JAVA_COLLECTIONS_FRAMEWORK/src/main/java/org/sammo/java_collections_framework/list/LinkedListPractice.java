@@ -94,5 +94,6 @@ public class LinkedListPractice {
 
         animals.removeAll(animalsToRemove);
         System.out.println(animals);
+
     }
 }
