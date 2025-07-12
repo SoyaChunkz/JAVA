@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JAVA_8" />
         <module name="JAVA_PLAYGROUND" />
         <module name="JAVA_COLLECTIONS_FRAMEWORK" />
       </profile>
