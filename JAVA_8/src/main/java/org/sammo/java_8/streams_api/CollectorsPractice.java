@@ -114,7 +114,6 @@ public class CollectorsPractice {
         int product = Stream.of(1, 2, 3, 4)
                 .collect(Collectors.reducing(1, (a, b) -> a * b));
         System.out.println("reducing (product): " + product);
-
     }
 
 }
