@@ -14,6 +14,7 @@
 - Trees
 - Graphs
 - Multithreading
+- Streams
 - Java Collections Framework (JCF)
 
   
